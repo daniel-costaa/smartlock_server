@@ -1,5 +1,4 @@
 from subprocess import run, PIPE
-
 from flask import logging, Flask, render_template, request
 import os
 import numpy as np
